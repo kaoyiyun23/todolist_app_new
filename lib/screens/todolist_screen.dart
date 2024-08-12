@@ -9,6 +9,7 @@ import '../components/todo_component.dart';
 
 //todo的一覽頁
 //使用StatefulWidget來讓畫面可以刷新
+//設置比例參數，在不同大小比例的時候，會切換排版
 
 class TodoListScreen extends StatefulWidget {
   @override
